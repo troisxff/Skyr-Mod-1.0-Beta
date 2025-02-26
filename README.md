@@ -1,4 +1,4 @@
-📜 Skyr - HUD Customization Mod
+📜 Skyr - HUD Customization Mod - VERSION 1.16.5
 
 
 English Description
