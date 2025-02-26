@@ -1,0 +1,1 @@
+Skyr is a Minecraft mod that allows you to customize your HUD with dynamic text. Using .skyr files, you can display various information on your screen, such as player stats, server ping, held items, and more. The mod supports multiple text overlays, color customization, and precise positioning.
