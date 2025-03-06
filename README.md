@@ -1,48 +1,34 @@
-![image-removebg-preview (17)](https://github.com/user-attachments/assets/e6a9760d-a020-4062-9faa-f46b88cc9245)
+🌟 Skyr Mod 🌟
+Skyr is a UI customization mod designed for Minecraft 1.16.5. 🎮
+With Skyr, you can personalize and tweak the display of various UI elements and even add custom text directly onto the screen. Whether you're looking to hide certain UI components or add real-time data, this mod offers a simple way to make your gameplay experience unique. ✨
 
-📜 Skyr - HUD Customization Mod - VERSION 1.16.5 - Forge 1.16.5-36.2.34
+🔧 Main Features
+UI Control 🖥️
+Skyr allows you to toggle visibility for specific UI elements through the skyr.toml configuration file:
 
+📦 Inventory
+❤️ Health Bar
+🍗 Food Bar
+💎 Experience Level Bar
+🎯 Crosshair
+Add Custom Text 📝
+You can add custom text overlays to the screen by creating .skyr files inside the /.minecraft/skyr_texts/ folder. Each text element is fully customizable, including:
 
-English Description
+🎨 Color
+🔠 Font Size
+📍 Position (e.g., top-left, bottom-right, etc.)
+Dynamic Variables in Text 🔄
+Add dynamic variables to your custom text, enabling the display of real-time player information. Available variables include:
 
-Skyr is a Minecraft mod that allows you to customize your HUD with dynamic text. Using .skyr files, you can display various information on your screen, such as player stats, server ping, held items, and more.
-The mod supports multiple text overlays, color customization, and precise positioning.
-
-
-
-✨ Features:
-
-- Custom text overlays with placeholders (e.g., %player%, %ping of server%, %health's player%).
-
-- Support for multiple .skyr files to manage different HUD elements.
-
-- Custom positioning, size, and color of text.
-
-- HUD elements toggle: disable health bar, hunger, XP, crosshair, and hotbar.
-
-- Easy-to-use syntax for adding text dynamically.
-
-🔧 Future updates may include animated text effects, GUI configuration, and live updates!
-
-
-Description en Français
-
-Skyr est un mod Minecraft permettant de personnaliser votre HUD avec du texte dynamique. Grâce aux fichiers .skyr, vous pouvez afficher diverses informations à l’écran, comme les statistiques du joueur, le ping du serveur, l’objet tenu en main, et bien plus encore.
-Le mod prend en charge plusieurs superpositions de texte, la personnalisation des couleurs et le positionnement précis.
-
-
-✨ Fonctionnalités :
-
-
-- Ajout de texte personnalisé avec des variables dynamiques (%player%, %ping of server%, %health's player%, etc.).
-
-- Prise en charge de plusieurs fichiers .skyr pour organiser les éléments du HUD.
-
-- Personnalisation : choix de la couleur, taille et position du texte.
-  
-- Désactivation des éléments du HUD : barre de vie, faim, XP, viseur et barre rapide.
-
-- Syntaxe simple pour ajouter du texte dynamiquement.
-
-
-🔧 Les futures mises à jour pourraient inclure des animations de texte, une interface GUI et des mises à jour en temps réel !
+👤 %player%: Displays the player's name.
+🛠️ %item's hand%: Displays the item currently in the player's hand.
+🍽️ %hunger's display%: Shows the player's hunger percentage.
+❤️ %health's display%: Shows the player's health percentage.
+🆔 %Id's player%: Displays "Premium" for authenticated accounts, or "Cracked" for non-authenticated versions.
+📊 %level's display%: Displays the player's current experience level.
+🛠️ Installation
+Download the Skyr mod. 📥
+Place the mod into the mods folder of your Minecraft installation. 🗂️
+Launch Minecraft 1.16.5 with Forge. 🚀
+Modify the configuration files (skyr.toml for UI settings, .skyr for custom text) to your preferences. ⚙️
+⚠️ Note: Skyr is only available for Minecraft 1.16.5! 🔒
